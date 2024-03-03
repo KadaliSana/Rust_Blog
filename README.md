@@ -25,7 +25,7 @@ Endpoint: /schedule_post<br />
 Method: POST<br />
 Example Test Case (PowerShell):<br />
 ```
-Invoke-WebRequest -Uri http://localhost:8000/schedule_post -Method POST -Body '{"title": "Scheduled Post", "content": "Scheduled post content", "publish_date": "2024-03-05T12:00:00Z"}' -ContentType "application/json"
+Invoke-WebRequest -Uri http://localhost:8000/schedule_post -Method POST -Body '{"title": "Scheduled Post", "content": "Scheduled post content", "publishing_date_nd_time": "2024-03-05T12:00:00Z"}' -ContentType "application/json"
 ```
 <br />
 
