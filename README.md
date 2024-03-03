@@ -1,12 +1,12 @@
 # Rust_Blog
 A blogsite using Rust as the backend. The blogsite has routes for the following:
-1)Register
-2)Login
-3)Schedule Post
-4)Reading the posts
-5)Creating the posts
-6)Updating the posts
-7)Deleting the posts
+  1)Register
+  2)Login
+  3)Schedule Post
+  4)Reading the posts
+  5)Creating the posts
+  6)Updating the posts
+  7)Deleting the posts
 
 The example test cases for the following routes on Powershell are:
 
