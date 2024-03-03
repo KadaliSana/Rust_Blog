@@ -1,5 +1,4 @@
-
-Rust_Blog
+#Rust_Blog
 This project is a blog site built with Rust as the backend. The application includes routes for various functionalities, allowing users to interact with the system seamlessly. The available routes are as follows:
 
 Register:<br />
